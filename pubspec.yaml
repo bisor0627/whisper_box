@@ -13,6 +13,7 @@ dependencies:
   flutter_riverpod: ^2.6.1
   riverpod_annotation: ^2.6.1
   flutter_screenutil: ^5.9.3
+  path_provider: ^2.1.5
 
 dev_dependencies:
   flutter_test:
@@ -20,6 +21,11 @@ dev_dependencies:
   flutter_lints: ^5.0.0
   build_runner: ^2.4.13
   riverpod_generator: ^2.3.9
+
+
+assets:
+  - assets/
+  - assets/images/**
 
 
 flutter:
